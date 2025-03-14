@@ -1,4 +1,4 @@
-# Calculate Factorial Using a Function 
+# Task:1 Calculate Factorial Using a Function 
 1.  **`factorial(n)` Function:**
     * **Purpose:** This function calculates the factorial of a given integer `n`.
     * **Input:** It takes one integer argument, `n`.
@@ -18,7 +18,7 @@
 4.  **Output:**
     * The calculated factorial, stored in the `result` variable, is printed to the console using the `print()` function.
 
-# Using the Math Module for Calculations
+# Task:2 Using the Math Module for Calculations
 1.  **Import `math` Module:**
     * `import math`: Imports the `math` module, which provides mathematical functions like `sqrt` (square root), `log` (natural logarithm), and `sin` (sine).
 
